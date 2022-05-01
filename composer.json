@@ -1,0 +1,12 @@
+{
+  "name": "qqfirst/webman_env",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "qqfirst\\webman_env\\": "src"
+    }
+  }
+}
