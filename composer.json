@@ -2,6 +2,7 @@
   "name": "qqfirst/webman_env",
   "type": "library",
   "license": "MIT",
+   "minimum-stability": "dev",
   "require": {
   },
   "autoload": {
